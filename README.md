@@ -22,7 +22,7 @@ Each metric runs in its own Python environment. The tool builds these by itself 
 metrics that need different torch versions can be used together. One run writes a
 `results.json` and a short report card for a paper appendix.
 
-Version 0.1.2. On PyPI. Source: <https://github.com/aroy1990-dev/musegauge>.
+Version 0.1.3. On PyPI. Source: <https://github.com/aroy1990-dev/musegauge>.
 Container image: `ghcr.io/aroy1990-dev/musegauge`.
 
 ## Authors
@@ -170,7 +170,7 @@ If you use musegauge in your work, please cite it:
   author  = {Roy, Abhinaba},
   title   = {musegauge: scoring generated music with existing metrics in one command},
   year    = {2026},
-  version = {0.1.2},
+  version = {0.1.3},
   url     = {https://github.com/aroy1990-dev/musegauge}
 }
 ```

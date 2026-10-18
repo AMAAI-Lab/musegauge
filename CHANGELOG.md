@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.3 (2026-10-18)
+
+Metadata and documentation only. No code change, so no metric number can move:
+
+- `pyproject.toml` now has an `authors` field, so the PyPI page names the author.
+- New `NOTICE` file and a copyright line in the README (Apache-2.0 section 4(d)).
+- README: Authors and Citation sections, badges, clearer layout.
+- The Docker image is not rebuilt. `ghcr.io/aroy1990-dev/musegauge:0.1.2` is still the current image.
+
 ## 0.1.2 (2026-10-07)
 
 Docker image fixes, found when the M7 checklist was first run on a real Docker machine
