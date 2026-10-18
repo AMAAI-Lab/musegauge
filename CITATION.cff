@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use musegauge in your work, please cite it using these metadata."
+type: software
+title: "musegauge: scoring generated music with existing metrics in one command"
+abstract: >-
+  musegauge scores a folder of generated music with several existing metrics in one command:
+  Frechet Audio Distance, Kernel Audio Distance, a CLAP text-audio score and Audiobox
+  Aesthetics. Each metric runs in its own Python environment.
+authors:
+  - family-names: Roy
+    given-names: Abhinaba
+    email: abhinabaroy1990@gmail.com
+    affiliation: "AMAAI Lab, Singapore University of Technology and Design"
+repository-code: "https://github.com/AMAAI-Lab/musegauge"
+url: "https://github.com/AMAAI-Lab/musegauge"
+license: Apache-2.0
+version: 0.1.4
+date-released: 2026-10-18
+keywords:
+  - music generation
+  - evaluation
+  - Frechet Audio Distance
+  - CLAP

@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.4 (2026-10-18)
+
+Links and metadata only. No code change, so no metric number can move:
+
+- The repository now lives at https://github.com/AMAAI-Lab/musegauge. Links in `pyproject.toml`,
+  the README and `docs/INSTALL.md` point there.
+- New `CITATION.cff`, so GitHub shows a "Cite this repository" button.
+- The Docker image is not rebuilt. `ghcr.io/aroy1990-dev/musegauge:0.1.2` is still the current image.
+
 ## 0.1.3 (2026-10-18)
 
 Metadata and documentation only. No code change, so no metric number can move:

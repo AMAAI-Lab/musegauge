@@ -100,7 +100,7 @@ needed: see `apptainer run --help` (not checked here).
 ## 5. From source (for contributors)
 
 ```bash
-git clone https://github.com/aroy1990-dev/musegauge.git && cd musegauge
+git clone https://github.com/AMAAI-Lab/musegauge.git && cd musegauge
 uv sync --extra dev
 uv run pytest            # the fast set; real plugins: docs/TESTING_REAL_PLUGINS.md
 ```
